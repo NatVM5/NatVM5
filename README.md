@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NatVM5
 - 👀 I’m interested in create my own proyects profesionality
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on LinkIn : @Natalia_Viñas
 
 <!---
